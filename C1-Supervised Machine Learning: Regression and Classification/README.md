@@ -1,12 +1,17 @@
 # Supervised Machine Learning: Regression and Classification
 
+## by DeepLearning.AI & Stanford University
+
 ## Learning Objectives
 
-- Define machine learning
-- Define supervised learning
-- Define unsupervised learning
-- Write and run Python code in Jupyter Notebooks
-- Define a regression model
-- Implement and visualize a cost function
-- Implement gradient descent
-- Optimize a regression model using gradient descent
+By completing this course, you will achieve the following learning objectives:
+
+1. **Building Machine Learning Models:**
+   - Utilize Python for building machine learning models.
+   - Leverage popular libraries such as NumPy and scikit-learn.
+
+2. **Supervised Machine Learning:**
+   - Develop a deep understanding of supervised learning.
+   - Build and train models for prediction and binary classification.
+   - Implement linear regression and logistic regression.
+
